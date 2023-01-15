@@ -9,3 +9,9 @@ In this data science project, we utilized various Python libraries, including **
 -BeautifulSoup (A Python library for pulling data out of HTML and XML files. It creates parse trees from page source code that is helpful to extract the data easily)
 
 -plotly (A Python library that allows developers to create interactive, web-based visualizations of data. It can be used to create a wide variety of charts and plots, including line plots, scatter plots, bar charts, heatmaps, and more.)
+
+
+If Extracting Stocks Data is not being rendered jump to following <a href="https://nbviewer.org/github/shayan911/Stocks-Analytics/blob/main/Extracting%20Stock%20Data%20.ipynf" target="_blank">Link</a>
+
+If Extracting Stocks Data By Webscraping is not being rendered jump to following
+<a href="https://nbviewer.org/github/shayan911/Stocks-Analytics/blob/main/Extracting%20Stock%20Data%20By%20Web%20Scraping.ipynb" target="_blank">Link</a>
